@@ -1,1 +1,1 @@
-# Verilog-Mealy-FSM
+# Verilog-FSM
